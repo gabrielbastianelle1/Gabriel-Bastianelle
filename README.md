@@ -24,7 +24,7 @@
 <img alt="ExpressJS" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielbastianelle1&show_icons=true&locale=en&layout=compact" alt="gabrielbastianelle1" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielbastianelle1&show_icons=true&theme=dark&locale=en&layout=compact" alt="gabrielbastianelle1" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gabrielbastianelle1&show_icons=true&locale=en" alt="gabrielbastianelle1" /></p>
 
